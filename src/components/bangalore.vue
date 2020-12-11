@@ -5,7 +5,7 @@
             <h3><u>IBIS HOTEL</u></h3><br>
             <h4>No - 30, Rajaram Mohan Roy Road, Off,<br> Richmond Rd
              Bengaluru, Karnataka 560027</h4>
-             <button v-on:click="book">BOOK</button>
+             <button v-on:click="book">BOOKoo</button>
         </div>
         <div class="bang-img2" id="q">
             <h3><u>HOTEL OBEROI</u></h3><br>
